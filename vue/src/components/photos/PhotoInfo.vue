@@ -39,7 +39,7 @@ export default {
     color: #26a2ff;
     font-size: 15px;
     text-align: center;
-    margin: 15px 0;
+    margin: 16px 0;
   }
   .subtitle {
     display: flex;
